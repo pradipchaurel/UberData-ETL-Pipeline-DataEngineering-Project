@@ -11,7 +11,7 @@
  ##  Technology Used
  + Programming Language - Python
  
- Google Cloud Platform
+##### Google Cloud Platform
  
 1. Google Storage
 2. Compute Instance
