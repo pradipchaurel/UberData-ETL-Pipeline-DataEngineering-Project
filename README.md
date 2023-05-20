@@ -35,4 +35,6 @@ More info about dataset can be found here:
 
 ## Data Model
 
+![uber-data_model](https://github.com/pradipchaurel/UberData-ETL-Pipeline-DataEngineering-Project/assets/94631819/1562ee13-f978-480e-b6c1-856fd70361b5)
+
  
